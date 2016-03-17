@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dronespot]]></title>
         <description><![CDATA[Dronespot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dronespot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 07:09:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 07:13:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dronespot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cb63cba-dbb3-4a91-ae4b-067726436694.png">]]></description>
-            <link>undefinedc2888a20-ed94-402a-a633-32cf3358a4c9/index.html</link>
+            <title><![CDATA[Eat Drink Chew Orbit]]></title>
+            <description><![CDATA[<article><h1>Eat Drink Chew Orbit</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cb63cba-dbb3-4a91-ae4b-067726436694.png"></article>]]></description>
+            <link>https://thegrid.ai/dronespot/c2888a20-ed94-402a-a633-32cf3358a4c9/index.html</link>
             <guid isPermaLink="false">c2888a20-ed94-402a-a633-32cf3358a4c9</guid>
-            <pubDate>Thu, 17 Mar 2016 07:08:33 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 07:13:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
