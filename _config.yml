@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#face8f'
   brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
